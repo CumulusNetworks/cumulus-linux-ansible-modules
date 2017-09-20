@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+This repository has been deprecated in favor of native Linux modules. For more information, see [this knowledge base article](https://support.cumulusnetworks.com/hc/en-us/articles/115010587028). 
+
+---
+
 This is the top level Git repository for Cumulus Linux Ansible Modules
 
 The following modules can be found within the [library](library) folder.
